@@ -1,0 +1,390 @@
+[
+{"type":"table","name":"videos","database":"prb_videos","data":
+[
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/51y0rU8fatL._AC_UL320_.jpg",
+        "title": "Trendy Queen Camisetas cortas sin mangas para mujer, lindas camisetas sin espalda para salir, trajes de verano Y2K, ropa de moda, ropa básica",
+        "rating": "4.1 de 5 estrellas",
+        "price": "49051",
+        "link": "https://www.amazon.com/-/es/Trendy-Camisetas-cortas-camisetas-espalda/dp/B0CQJVHCVH/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-1"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61aUZQs50XL._AC_UL320_.jpg",
+        "title": "Sunzel Leggings acampanados, pantalones de yoga cruzados con control de abdomen, cintura alta y pierna ancha",
+        "rating": "4.3 de 5 estrellas",
+        "price": "112057",
+        "link": "https://www.amazon.com/-/es/Leggings-acampanados-pantalones-cruzados-control/dp/B0BB7STYJL/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-2"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71roJ-3hjBL._AC_UL320_.jpg",
+        "title": "ANRABESS Conjunto de 2 piezas para mujer, conjunto de pantalones cortos deportivos de gran tamaño, casual, conjunto a juego, ropa deportiva",
+        "rating": "4.5 de 5 estrellas",
+        "price": "83067",
+        "link": "https://www.amazon.com/-/es/ANRABESS-Conjunto-pantalones-deportivos-deportiva/dp/B0C38N41JX/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-3"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61qJlwGq8UL._AC_UL320_.jpg",
+        "title": "SAMPEEL Conjuntos de dos piezas para mujer, trajes de verano, conjuntos de descanso, cuello alto, pantalones cortos de pierna ancha, trajes de viaje de vacaciones",
+        "rating": "4.4 de 5 estrellas",
+        "price": "139115",
+        "link": "https://www.amazon.com/-/es/Conjunto-descanso-elegante-vacaciones-conjuntos/dp/B0CWNZWQ5L/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-4"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/81miroNz5XL._AC_UL320_.jpg",
+        "title": "OQQ - 3 Camisetas ombligueras sin mangas para mujer, acanaladas, sin costuras, para entrenamiento, ejercicio, yoga",
+        "rating": "4.3 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/OQQ-Camisetas-ombligueras-acanaladas-entrenamiento/dp/B0BR5JKBR4/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-5"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61nrAdNMQQL._AC_UL320_.jpg",
+        "title": "ANRABESS Conjunto de 2 piezas de verano para mujer, sin mangas, con botones en la espalda, pantalones capri de pierna ancha, conjunto de lino con bolsillos",
+        "rating": "4.2 de 5 estrellas",
+        "price": "131384",
+        "link": "https://www.amazon.com/-/es/ANRABESS-Conjunto-pantalones-conjunto-bolsillos/dp/B09Y55XM5S/ref=sr_1_6?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-6"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61EndpxQWiL._AC_UL320_.jpg",
+        "title": "Trendy Queen Sudaderas con capucha de gran tamaño para mujer, sudaderas de forro polar, suéteres de manga larga, ropa de otoño con bolsillo",
+        "rating": "4.6 de 5 estrellas",
+        "price": "154577",
+        "link": "https://www.amazon.com/-/es/Sudaderas-capucha-sudaderas-su%C3%A9teres-bolsillo/dp/B0C7MLC1VY/ref=sr_1_7?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-7"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71sFCQAhrdL._AC_UL320_.jpg",
+        "title": "OQQ Camiseta sin mangas de 3 piezas para mujer, con tirantes delgados, cuello cuadrado, elástica, camiseta corta",
+        "rating": "4.3 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/Camiseta-tirantes-delgados-cuadrado-el%C3%A1stica/dp/B0CP6SLRWC/ref=sr_1_8?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-8"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71aMHrYNB+L._AC_UL320_.jpg",
+        "title": "ANRABESS Overol casual de verano para mujer, sin mangas, holgado, con tirantes delgados, pantalones cortos con bolsillos, ropa 2024",
+        "rating": "4.5 de 5 estrellas",
+        "price": "123654",
+        "link": "https://www.amazon.com/-/es/ANRABESS-tirantes-delgados-pantalones-bolsillos/dp/B0BXH1HJZ7/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-9"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71OSCeVNWtL._AC_UL320_.jpg",
+        "title": "OQQ Camisetas de 2 piezas para mujer, manga corta, cuello redondo, ajustadas, elásticas, fruncidas",
+        "rating": "4.3 de 5 estrellas",
+        "price": "112057",
+        "link": "https://www.amazon.com/-/es/Camisetas-redondo-ajustadas-el%C3%A1sticas-fruncidas/dp/B0CRPGR2J7/ref=sr_1_10?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-10"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71NbX1GQxBL._AC_UL320_.jpg",
+        "title": "ANRABESS Conjuntos de dos piezas para mujer, suéter de punto y sin botones (tipo ombliguera) y pantalones, para descansar, traje deportivo a juego, conjuntos de sudadera",
+        "rating": "4.1 de 5 estrellas",
+        "price": "181635",
+        "link": "https://www.amazon.com/-/es/Conjuntos-ombliguera-pantalones-descansar-deportivo/dp/B0BYC4VVL2/ref=sr_1_11?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-11"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61GrLAKu3FL._AC_UL320_.jpg",
+        "title": "OQQ Faldas de 2 piezas para mujer, 2 en 1, básicas, versátiles, elásticas, acampanadas, minifaldas casuales",
+        "rating": "4.2 de 5 estrellas",
+        "price": "112057",
+        "link": "https://www.amazon.com/-/es/vers%C3%A1tiles-el%C3%A1sticas-acampanadas-minifaldas-casuales/dp/B0CPLKHY1J/ref=sr_1_12?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-12"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/712LXbSM2FL._AC_UL320_.jpg",
+        "title": "Jeans para mujer, cintura media, pierna recta, holgados, elásticos, ligeros, con control de abdomen, modernos",
+        "rating": "3.9 de 5 estrellas",
+        "price": "177769",
+        "link": "https://www.amazon.com/-/es/cintura-holgados-el%C3%A1sticos-ligeros-control/dp/B0C1KTBPQ6/ref=sr_1_13?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-13"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71n7Huwu3lL._AC_UL320_.jpg",
+        "title": "Dokotoo Camisetas de verano 2024 para mujer, camisetas sueltas de gran tamaño, camisetas básicas",
+        "rating": "4.4 de 5 estrellas",
+        "price": "77269",
+        "link": "https://www.amazon.com/-/es/Dokotoo-Camisetas-camisetas-sueltas-b%C3%A1sicas/dp/B0CMCC8B4Q/ref=sr_1_14?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-14"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61C3nZTHqlL._AC_UL320_.jpg",
+        "title": "XPONNI Pantalones deportivos para mujer, pantalones holgados Y2k, pantalones de paracaídas para mujer, ropa Y2K",
+        "rating": "4.1 de 5 estrellas",
+        "price": "92730",
+        "link": "https://www.amazon.com/-/es/Pantalones-deportivos-pantalones-holgados-paraca%C3%ADdas/dp/B0BJ2QVJRW/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-15"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71DvWBF3O6L._AC_UL320_.jpg",
+        "title": "Dokotoo Overol casual suelto de una pieza para mujer, sin mangas, estampado de pierna ancha, pantalón largo con bolsillos",
+        "rating": "4.1 de 5 estrellas",
+        "price": "138690",
+        "link": "https://www.amazon.com/-/es/Dokotoo-Overol-estampado-pantal%C3%B3n-bolsillos/dp/B0CL9D24CC/ref=sr_1_16?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-16"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71jX3YGYBHL._AC_UL320_.jpg",
+        "title": "OQQ Camiseta sin mangas de 2 piezas para mujer, cuello redondo, sin mangas, básica, elástica",
+        "rating": "4.6 de 5 estrellas",
+        "price": "108192",
+        "link": "https://www.amazon.com/-/es/Camiseta-mangas-piezas-redondo-el%C3%A1stica/dp/B0CQH5CM7R/ref=sr_1_17?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-17"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/51YDxQGsN+L._AC_UL320_.jpg",
+        "title": "ANRABESS Overol casual de verano para mujer, sin mangas, pierna ancha, pantalones largos, ropa de viaje a la moda",
+        "rating": "4.3 de 5 estrellas",
+        "price": "150711",
+        "link": "https://www.amazon.com/-/es/ANRABESS-Overol-casual-verano-pantalones/dp/B0C4XXM2QL/ref=sr_1_18?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-18"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/717oZ78e8-L._AC_UL320_.jpg",
+        "title": "LILLUSORY Conjuntos de tejido de 2 piezas para mujer, conjuntos de sudadera de moda",
+        "rating": "4.2 de 5 estrellas",
+        "price": "185500",
+        "link": "https://www.amazon.com/-/es/LILLUSORY-Conjuntos-tejido-conjuntos-sudadera/dp/B0BVW1JD33/ref=sr_1_19?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-19"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/51vIUG9ETgL._AC_UL320_.jpg",
+        "title": "AUTOMET Pantalones de vestir de pierna ancha para mujer, cintura alta, ajuste holgado, pantalones de trabajo casuales de negocios con bolsillos 2024",
+        "rating": "4.4 de 5 estrellas",
+        "price": "139115",
+        "link": "https://www.amazon.com/-/es/Pantalones-pantalones-casuales-negocios-bolsillos/dp/B0CWL111MF/ref=sr_1_20?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-20"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61lPcDKjmXL._AC_UL320_.jpg",
+        "title": "REORIA Camisas sexy de manga corta con cuello alto falso para mujer, malla transparente, fruncido, a la moda, para salir",
+        "rating": "4.3 de 5 estrellas",
+        "price": "100461",
+        "link": "https://www.amazon.com/-/es/REORIA-Camisas-cuello-transparente-fruncido/dp/B0CS9MGGCH/ref=sr_1_22?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-22"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71zZ7sqwHuL._AC_UL320_.jpg",
+        "title": "ATHMILE Camisetas de gran tamaño para mujer, ajuste holgado, cuello redondo, manga corta, blusa casual de verano, camiseta básica Y2K 2024",
+        "rating": "4.3 de 5 estrellas",
+        "price": "57942",
+        "link": "https://www.amazon.com/-/es/ATHMILE-Camisetas-holgado-redondo-camiseta/dp/B0CSSXWSZC/ref=sr_1_23?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-23"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61MbsCGKhsL._AC_UL320_.jpg",
+        "title": "SOLY HUX Women's Summer Sleeveless Belted Tank Romper Short Jumpsuit",
+        "rating": "3.9 de 5 estrellas",
+        "price": "142981",
+        "link": "https://www.amazon.com/-/es/SOLY-HUX-Enterizo-verano-cintur%C3%B3n/dp/B09F3B5J82/ref=sr_1_24?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-24"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/716On3FIfiL._AC_UL320_.jpg",
+        "title": "Dokotoo Suéter de verano para mujer, cuello redondo, manga corta, estilo casual, de ganchillo, con huecos, de punto, sin botones, para la playa",
+        "rating": "4.5 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/Dokotoo-redondo-ganchillo-botones-Albaricoque/dp/B0CKT79VGK/ref=sr_1_25?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-25"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71bCCaXoSlL._AC_UL320_.jpg",
+        "title": "Trendy Queen Camisetas básicas de manga corta con cuello en V profundo y espalda descubierta para mujer, camisetas básicas Y2K, corsé, Cami 2024",
+        "rating": "4.1 de 5 estrellas",
+        "price": "69538",
+        "link": "https://www.amazon.com/-/es/Camisetas-profundo-espalda-descubierta-camisetas/dp/B0BRQF9VQB/ref=sr_1_27?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-27"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/81-q3PxksoL._AC_UL320_.jpg",
+        "title": "COOFANDY Camisas de lino para hombre, camisas casuales de manga corta con botones para hombre, camisa de playa de verano para boda",
+        "rating": "4.3 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/COOFANDY-Camisas-camisas-casuales-botones/dp/B0BLYW28BB/ref=sr_1_28?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-28"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/718UcuSq8XL._AC_UL320_.jpg",
+        "title": "Trendy Queen Camisola sin mangas para mujer, con espalda cruzada, ajustada, informal, verano 2024",
+        "rating": "4.4 de 5 estrellas",
+        "price": "38615",
+        "link": "https://www.amazon.com/-/es/Camisola-espalda-cruzada-ajustada-informal/dp/B0CR15SB26/ref=sr_1_29?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-29"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/81eN+wh-49L._AC_UL320_.jpg",
+        "title": "OQQ Body de 2 piezas para mujer, sexy, acanalado, de una pieza, cuello cuadrado, manga corta",
+        "rating": "4.4 de 5 estrellas",
+        "price": "104327",
+        "link": "https://www.amazon.com/-/es/piezas-acanalado-cuello-cuadrado-Coffee/dp/B0BXCS9F5D/ref=sr_1_30?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-30"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61NtjDHSA-L._AC_UL320_.jpg",
+        "title": "SHAPERX Body moldeador para mujer, con control de abdomen, sin costuras, esculpir la cintura, traje de cuerpo",
+        "rating": "4.1 de 5 estrellas",
+        "price": "146846",
+        "link": "https://www.amazon.com/-/es/SHAPERX-costuras-esculpiente-moldeador-camiseta/dp/B0B1HR89H4/ref=sr_1_35?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-35"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61Za3Rt3CLL._MCnd_AC_UL320_.jpg",
+        "title": "Vestido de tenis para mujer, vestido de entrenamiento con brasier integrado y bolsillos cortos, vestido de verano para golf, vestidos atléticos para mujer",
+        "rating": "4.5 de 5 estrellas",
+        "price": "146846",
+        "link": "https://www.amazon.com/-/es/entrenamiento-integrado-bolsillos-ejercicio-atletismo/dp/B09C8K1YS9/ref=sr_1_36?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-36"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61RcVUDHeYL._AC_UL320_.jpg",
+        "title": "Trendy Queen Camisas de manga larga para mujer, básicas, de primavera, otoño, a la moda, ajustadas, Y2K",
+        "rating": "4.4 de 5 estrellas",
+        "price": "57942",
+        "link": "https://www.amazon.com/-/es/Trendy-Camisas-b%C3%A1sicas-primavera-ajustadas/dp/B0BW8ZCGFQ/ref=sr_1_37?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-37"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71WvRHuf0OL._AC_UL320_.jpg",
+        "title": "Ekouaer Conjunto de pijama de satén de seda para mujer, suave, manga corta, con botones, camiseta y pantalones cortos, 2 piezas, conjunto de pijama de descanso S-XXL",
+        "rating": "4.1 de 5 estrellas",
+        "price": "65673",
+        "link": "https://www.amazon.com/-/es/Conjunto-camiseta-pantalones-conjunto-descanso/dp/B0CX7RYK35/ref=sr_1_38?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-38"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71KRr8Bv-xL._AC_UL320_.jpg",
+        "title": "CRZ YOGA Women's High Waisted Running Shorts Mesh Liner - 3'' Dolphin Quick Dry Athletic Gym Track Workout Shorts Zip Pocket",
+        "rating": "4.5 de 5 estrellas",
+        "price": "108231",
+        "link": "https://www.amazon.com/-/es/RS93/dp/B0CSK7D5P3/ref=sr_1_43?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-43"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/51ESfY-dOzL._MCnd_AC_UL320_.jpg",
+        "title": "ANRABESS - Vestido largo de playa de verano con bolsillos, suelto, informal, de manga corta, para mujer",
+        "rating": "4.3 de 5 estrellas",
+        "price": "135250",
+        "link": "https://www.amazon.com/-/es/ANRABESS-Vestido-holgado-abertura-bolsillos/dp/B0BQJBJPPC/ref=sr_1_44?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-44"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/81G4gBhCfrL._AC_UL320_.jpg",
+        "title": "Dokotoo - Blusas y tops de gasa de manga corta para mujer",
+        "rating": "3.9 de 5 estrellas",
+        "price": "112057",
+        "link": "https://www.amazon.com/-/es/Dokotoo-Blusas-manga-corta-Albaricoque/dp/B0CN9BSGXP/ref=sr_1_45?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-45"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71DwfAsZ9EL._AC_UL320_.jpg",
+        "title": "OQQ Peleles de mujer de manga corta acanalada con cremallera frontal, elástico, control de abdomen, para yoga, entrenamiento",
+        "rating": "4.1 de 5 estrellas",
+        "price": "104327",
+        "link": "https://www.amazon.com/-/es/Peleles-acanalada-cremallera-el%C3%A1stico-entrenamiento/dp/B0CQWYXD4N/ref=sr_1_46?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-46"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/91P9ae+H2FL._AC_UL320_.jpg",
+        "title": "FREE TO LIVE - Paquete de 3 camisetas de manga corta dolman para mujer",
+        "rating": "4.2 de 5 estrellas",
+        "price": "169884",
+        "link": "https://www.amazon.com/-/es/Paquete-camisetas-casuales-elegantes-leggings/dp/B01BI84HEM/ref=sr_1_47?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-47"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/71JqdrfQSEL._AC_UL320_.jpg",
+        "title": "CRZ YOGA Mid Waisted Dolphin Athletic Shorts for Women Lightweight High Split Gym Workout Shorts with Liner Quick Dry",
+        "rating": "4.5 de 5 estrellas",
+        "price": "108231",
+        "link": "https://www.amazon.com/-/es/Pantalones-deportivos-cintura-abertura-Anaranjado/dp/B0C6XMZ1CL/ref=sr_1_48?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-48"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61eLxpNn7wL._AC_UL320_.jpg",
+        "title": "ANRABESS - Pantalones palazzo de descanso para mujer, de lino, estilo bohemio, pierna ancha, informal, con cintura alta y bolsillos",
+        "rating": "4.0 de 5 estrellas",
+        "price": "139115",
+        "link": "https://www.amazon.com/-/es/ANRABESS-Pantalones-descanso-informal-bolsillos/dp/B0C8HBJQN8/ref=sr_1_49?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-49"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/619Ob+e4hUL._AC_UL320_.jpg",
+        "title": "AUTOMET Overol para mujer, holgado, casual, sin mangas, ajustable, tirantes delgados, elásticos, pierna ancha, con bolsillos",
+        "rating": "4.1 de 5 estrellas",
+        "price": "57942",
+        "link": "https://www.amazon.com/-/es/ajustable-tirantes-el%C3%A1sticos-bolsillos-ArmyGreen/dp/B0C7CPWFF4/ref=sr_1_50?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-50"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/91AbXaH1SyL._AC_UL320_.jpg",
+        "title": "Simple Joys by Carter's - Pijama de algodón con pies ajustada para niños pequeños y bebés, paquete de 3",
+        "rating": "4.7 de 5 estrellas",
+        "price": "104365",
+        "link": "https://www.amazon.com/-/es/Simple-Joys-Carters-ajustada-peque%C3%B1os/dp/B0744PTVDJ/ref=sr_1_51?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-51"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/81swNacJaXL._AC_UL320_.jpg",
+        "title": "Evercute - Brasier deportivo con relleno, con espalda cruzada, tirantes delgados y cruzados, para entrenamiento, de yoga, entrenamiento físico, bajo impacto",
+        "rating": "4.4 de 5 estrellas",
+        "price": "158442",
+        "link": "https://www.amazon.com/-/es/Evercute-deportivo-tirantes-entrenamiento-frambuesa/dp/B08SVZYMD1/ref=sr_1_52?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-52"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/51HeFgiH34L._AC_UL320_.jpg",
+        "title": "Conjunto de dos piezas de entrenamiento casual para mujer, manga corta, cintura alta, plegable, pantalones acampanados, ropa de calle",
+        "rating": "4.3 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/Conjunto-entrenamiento-plegable-pantalones-acampanados/dp/B0CQX3WV72/ref=sr_1_53?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-53"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/91ya5qGjAML._AC_UL320_.jpg",
+        "title": "OVESPORT Paquete de 3 leggings de entrenamiento de cintura alta sin costuras con teñido anudado para mujer, pantalones deportivos para yoga, gimnasio, levantamiento de glúteos",
+        "rating": "4.4 de 5 estrellas",
+        "price": "150711",
+        "link": "https://www.amazon.com/-/es/entrenamiento-pantalones-deportivos-levantamiento-3pack-marr%C3%B3n/dp/B0BHSLHGMW/ref=sr_1_54?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-54"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/51a5XWM05kL._AC_UL320_.jpg",
+        "title": "Conjunto de 2 piezas para mujer, camiseta de manga corta ajustada, leggings acampanados de tiro bajo, conjunto de sudadera de yoga",
+        "rating": "4.2 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/Conjunto-camiseta-ajustada-leggings-acampanados/dp/B0CQQ3Q7Z4/ref=sr_1_55?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-55"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61h03pm7zFL._AC_UL320_.jpg",
+        "title": "OQQ Pantalones cortos de entrenamiento de cintura alta para mujer, 3 piezas, levantamiento de glúteos, control de abdomen, fruncidos, sonrisa, pantalones cortos de yoga",
+        "rating": "4.2 de 5 estrellas",
+        "price": "107806",
+        "link": "https://www.amazon.com/-/es/Pantalones-entrenamiento-levantamiento-fruncidos-pantalones/dp/B09Y46XFLL/ref=sr_1_56?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-56"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/81uj2fuZMeL._AC_UL320_.jpg",
+        "title": "Ekouaer Summer Outfits for Women Soft Knit Lounge Sets Long Sleeve Top and Shorts 2 Piece Pajama Sets",
+        "rating": "4.2 de 5 estrellas",
+        "price": "115923",
+        "link": "https://www.amazon.com/-/es/Conjunto-conjunto-descanso-sudadera-conjuntos/dp/B0BPRYCB31/ref=sr_1_57?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-57"
+    },
+    {
+        "place": "Amazon",
+        "img_link": "https://m.media-amazon.com/images/I/61SD72ww99L._AC_UL320_.jpg",
+        "title": "AUTOMET Enterizo de una pieza para mujer, con pantalones cortos, con control de abdomen, ajustado, ropa de verano, ropa de moda 2024",
+        "rating": "4.4 de 5 estrellas",
+        "price": "38615",
+        "link": "https://www.amazon.com/-/es/AUTOMET-Enterizo-pantalones-control-ajustado/dp/B0C28QGLJK/ref=sr_1_58?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=J9NEXIP1ZTNT&dib=eyJ2IjoiMSJ9.zLSKh04cKMyQfamK3lAG4D2FxjIDo4sNy4CgR6xWe_7k9pUKfZCV3DXGkp_OGEJGlX7K-5fOkRiwo6R0_Yl8z5Dis5o9llzk9_mCxSowwUQ78Mo_82tOGPSWQXaL8AP5yU6egiOlzhDHOWvrMUktB-lZwYYtXmC_MciSHfyWacYXyhVuV4GwcOfMrsn9bOTko-Aq7kYeSBfPzqBmvaOkUGRLp_U1iXPL7i79yNO4UD6gc8VNFAMtjg5DVUNf0DRVhpGgynmfFApJP0VH2mA0gCNxZ_EFNQlAh8vTGa3jcSc.GSQGnQRr85a_LwrdWxtRBsIlnT-tQyldsuMZUziD1Lg&dib_tag=se&keywords=ropa&qid=1717289724&rnid=2941120011&s=apparel&sprefix=ropa%2Caps%2C148&sr=1-58"
+    }
+]
+}
+]
